@@ -1,0 +1,83 @@
+# Questo file viminfo è stato generato da Vim 7.4.
+# File modificabile, attento a quel che fai!
+
+# Valore di 'encoding' al momento della scrittura di questo file
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Linea di Comando Storia (da più recente a meno recente):
+:wq
+:q
+
+# Stringa di Ricerca Storia (da più recente a meno recente):
+
+# Espressione Storia (da più recente a meno recente):
+
+# Linea di Input Storia (da più recente a meno recente):
+
+# Linea di Input Storia (da più recente a meno recente):
+
+# Registri:
+
+# File mark:
+'0  5  19  /root/Scrivania/esp8266_3.sh
+'1  5  19  /root/Scrivania/esp8266.sh
+'2  5  19  /root/Scrivania/esp32.sh
+'3  23  0  /root/.bashrc
+
+# Jumplist (dai più recenti):
+-'  5  19  /root/Scrivania/esp8266_3.sh
+-'  1  0  /root/Scrivania/esp8266_3.sh
+-'  5  19  /root/Scrivania/esp8266.sh
+-'  1  0  /root/Scrivania/esp8266.sh
+-'  5  19  /root/Scrivania/esp32.sh
+-'  1  0  /root/Scrivania/esp32.sh
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  5  19  /root/Scrivania/esp32.sh
+-'  1  0  /root/Scrivania/esp32.sh
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  5  19  /root/Scrivania/esp8266.sh
+-'  1  0  /root/Scrivania/esp8266.sh
+-'  5  19  /root/Scrivania/esp32.sh
+-'  1  0  /root/Scrivania/esp32.sh
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  5  19  /root/Scrivania/esp32.sh
+-'  1  0  /root/Scrivania/esp32.sh
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  23  0  /root/.bashrc
+-'  1  0  /root/.bashrc
+
+# Storia dei mark all'interno dei file (dai più recenti ai meno recenti):
+
+> /root/Scrivania/esp8266_3.sh
+	"	5	19
+	^	5	20
+	.	5	0
+	+	5	0
+
+> /root/Scrivania/esp8266.sh
+	"	5	19
+	^	5	20
+	.	5	0
+	+	5	0
+
+> /root/Scrivania/esp32.sh
+	"	5	19
+	^	5	20
+	.	5	0
+	+	5	0
+
+> /root/.bashrc
+	"	23	0
